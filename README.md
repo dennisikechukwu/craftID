@@ -2,7 +2,7 @@
 
 ## Live Demo 🚀
 
-https://craftid-hackathon.vercel.app
+https://craft-id-ecru.vercel.app
 
 ## Problem Statement
 
@@ -54,8 +54,6 @@ CraftID is an **income identity engine** that turns everyday client payments int
 | Ikechukwu Dennis  | Team Lead / Full-stack Developer   | - Led overall MVP build and technical direction (scope control, delivery, demo readiness)<br>- Implemented core user flows across onboarding → dashboard → invoices/payments so artisans can start generating a verifiable income trail quickly<br>- Integrated Interswitch payment experience using WebPAY inline checkout and built the server-side verification flow to ensure only confirmed transactions are recorded as “verified income”<br>- Connected payment confirmation to invoice status updates and transaction history to power CraftScore and the income claim narrative end-to-end                    |
 | Favour Olaleru    | Full-stack Developer / Database & Documentation | - Implemented supporting features and wiring needed for a complete income-history pipeline (API routes, data fetching, and UI integration for invoices/payments)<br>- Set up the Supabase database schema and payment statistics function used by the dashboard and scoring logic (artisans, invoices, payments, and aggregated payment stats)<br>- Worked on documentation and submission materials to clearly explain the problem, MVP scope, and demo flow for judges and reviewers<br>- Assisted with deployment readiness and environment configuration patterns for local + hosted setups |
 | Folashade Adewara | UI/UX Designer / Research          | - Designed the CraftID user experience to keep onboarding under 3 minutes and make invoice creation + link sharing feel simple for non-technical artisans<br>- Conducted product research on artisan income invisibility and lender requirements to shape the “Income Identity Engine” positioning and verification-first approach<br>- Created screen layouts and UX copy for the dashboard and verification story (income history → CraftScore → downloadable claim document)<br>|
-
-> ⚠️ Hackathon requirement: **Every team member must be listed here** (technical and non-technical). If someone isn’t included in the README, they may not be counted.
 
 ## Installation & Local Setup 💻
 
